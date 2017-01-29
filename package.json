@@ -1,5 +1,5 @@
 {
-  "name": "oauth2orize",
+  "name": "oauth2orize-restify",
   "version": "1.7.0",
   "description": "OAuth 2.0 authorization server toolkit for Node.js.",
   "keywords": [
@@ -20,18 +20,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/oauth2orize.git"
+    "url": "git://github.com/speedrunslive/oauth2orize.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/oauth2orize/issues"
+    "url": "http://github.com/speedrunslive/oauth2orize/issues"
   },
   "license": "MIT",
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://opensource.org/licenses/MIT"
-    }
-  ],
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  }],
   "main": "./lib",
   "dependencies": {
     "uid2": "0.0.x",
